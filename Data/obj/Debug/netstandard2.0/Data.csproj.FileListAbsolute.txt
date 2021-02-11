@@ -1,0 +1,16 @@
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\AllsopExam.Data\bin\Debug\netstandard2.0\Products.xml
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\AllsopExam.Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\AllsopExam.Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\AllsopExam.Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\AllsopExam.Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\AllsopExam.Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\AllsopExam.Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\AllsopExam.Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\Data\bin\Debug\netstandard2.0\Products.xml
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\jcelestino\Downloads\AllsopExam\AllsopExam\Data\obj\Debug\netstandard2.0\Data.pdb

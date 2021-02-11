@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cart xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UserName="33333">
+  <Products>
+    <Product>
+      <Id>1</Id>
+      <Name>Chicken Fillets, 6 x 100g</Name>
+      <Category>MeatAndPoultry</Category>
+      <Price>4.50</Price>
+      <CurrencyCode>GBP</CurrencyCode>
+      <Count>3</Count>
+    </Product>
+    <Product>
+      <Id>3</Id>
+      <Name>Whole Free-Range Turkey, 1 x 16-18lbs</Name>
+      <Category>MeatAndPoultry</Category>
+      <Price>43.20</Price>
+      <CurrencyCode>GBP</CurrencyCode>
+      <Count>2</Count>
+    </Product>
+  </Products>
+  <Voucher xsi:nil="true" />
+  <SubTotalPrice>99.90</SubTotalPrice>
+  <TotalPrice>99.90</TotalPrice>
+</Cart>

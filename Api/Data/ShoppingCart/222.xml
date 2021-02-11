@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cart xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <Product>
+      <Id>1</Id>
+      <Name>Chicken Fillets, 6 x 100g</Name>
+      <Category>MeatAndPoultry</Category>
+      <Price>4.50</Price>
+      <CurrencyCode>GBP</CurrencyCode>
+      <Count>3</Count>
+    </Product>
+  </Products>
+  <Voucher xsi:nil="true" />
+  <SubTotalPrice>13.50</SubTotalPrice>
+  <TotalPrice>13.50</TotalPrice>
+</Cart>

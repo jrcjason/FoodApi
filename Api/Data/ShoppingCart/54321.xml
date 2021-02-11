@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cart xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UserName="54321">
+  <Products>
+    <Product>
+      <Id>1</Id>
+      <Name>Chicken Fillets, 6 x 100g</Name>
+      <Category>MeatAndPoultry</Category>
+      <Price>4.50</Price>
+      <CurrencyCode>GBP</CurrencyCode>
+      <Count>1</Count>
+    </Product>
+    <Product>
+      <Id>15</Id>
+      <Name>Sparkling Mineral Water, 6 x 24 x 500ml</Name>
+      <Category>Drinks</Category>
+      <Price>25.83</Price>
+      <CurrencyCode>GBP</CurrencyCode>
+      <Count>10</Count>
+    </Product>
+  </Products>
+  <Voucher>20OFFPROMO</Voucher>
+  <SubTotalPrice>262.80</SubTotalPrice>
+  <TotalPrice>216.970</TotalPrice>
+</Cart>
